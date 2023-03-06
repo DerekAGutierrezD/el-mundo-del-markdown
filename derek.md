@@ -1,16 +1,19 @@
-# Bootcamp
+# Derek Gutierrez
+## Descripción tipo CV
+Soy estudiante de octavo semestre de ingeniería electrónica de la universidad ECCI. En los ultimos meses he estado bastante interesado en la programación, ingresando mas que todo en la parte de Full-Stack, he estado estudiando sobre Git, JS y HTML.
 
-## 🦄 Semana 1
+## Tabla de comandos
+|Comandos|Descripción|
+|:--:|:--:|
+|ls|El list es importate, ya que muestra los archivos de la ruta en la que se esta|
+|pwd|Muestra la ruta entera del directorio donde se encuentra actualmente|
+|cd|Este comando es muy utilizable, ya que permite navegar entre carpetas|
+|mkdir|Crea una carpeta nueva y despues de poner el comando se le ingresa el nombre que se le dara a la nueva carpeta|
+|rm|Este comando permite eliminar una carpeta que esta en la ruta determinada|
 
-**Configuración del ambiente de desarrollo (Prework)**
-
-1. Instalando Ubuntu en Windows 10/11
-2. Instalación de Git
-3. Configuración de las llaves SSH
-4. Creando una cuenta de GitHub
-5. Instalación de Node.js y Yarn
-6. Primeros pasos con VS Code
-7. Uso básico de la Terminal
-8. Conociendo la terminal
-
-# Hola esto es una prueba
+## Tabla de alias
+|Alias|Descripción|
+|:---:|:---------:|
+|alias cl="clear"|Sirve bastante para limpiar la terminal ahorrando tiempo y siendo eectivo|
+|alias rm="trash"|Sirve para que al momento de remover una carpeta o archivo se vaya directamente a la papelera y así en algun momento poderlos recuperar|
+|alias mkdir="mkdir -pv"|Facilita la creación de directorios|
